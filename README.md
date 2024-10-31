@@ -5,15 +5,21 @@ I am passionate about building responsive, visually appealing applications and e
 
 # 🔭 Projects I've Worked On:
 
-Currency Converter – A responsive app for currency conversion.
+Currency Converter
 
-Tic-Tac-Toe Game – Classic game with a sleek UI.
+Tic-Tac-Toe Game
 
-Desert Safari Website – Interactive website with custom design elements.
+Desert Safari Website
 
-Sign-In/Sign-Up & Chat App – Built with Firebase for real-time messaging.
+Personal Portfolio
 
-TechHealth – Developed a CNN model to classify plant diseases, achieving 99.77% accuracy.
+Sign-In/Sign-Up & Chat App using firebase
+
+TodoList using Contextapi and Redux Toolkit
+
+React Router Dom
+
+TechHealth
 
 # 🛠️ My Skill Set
 
