@@ -52,9 +52,9 @@ Backend
 
 <a href="https://github.com/Moazam-khan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>  </a><br/> 
 <a href="https://linkedin.com/in/moazam-khan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/> </a><br/>
-<a href="https://engineer-moazam.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=internet-explorer&logoColor=white"
-                                                                 
-  alt="Portfolio" height="30"/> Portfolio </a>                                                              
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://engineer-moazam.netlify.app)
+                                                           
 
 # ✍️ Recent Blog Posts
 Stay tuned for updates on my latest projects and learning insights!
