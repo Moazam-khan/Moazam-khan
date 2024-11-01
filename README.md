@@ -3,6 +3,8 @@
 A dedicated and hardworking Front-End Developer with a degree in Computer Systems Engineering from the University of Engineering and Technology, Peshawar.
 I am passionate about building responsive, visually appealing applications and enjoy creating efficient, user-friendly solutions. I am currently open to new opportunities in front-end development.
 
+   alt="Portfolio" height="30"/> Portfolio </a>
+
 # 🔭 Projects I've Worked On:
 
 Currency Converter
@@ -50,7 +52,9 @@ Backend
 
 <a href="https://github.com/Moazam-khan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>  </a><br/> 
 <a href="https://linkedin.com/in/moazam-khan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/> </a><br/>
-<a href="https://engineer-moazam.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" height="30"/> Portfolio </a>
+<a href="https://engineer-moazam.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=internet-explorer&logoColor=white"
+                                                                 
+                                                              
 
 # ✍️ Recent Blog Posts
 Stay tuned for updates on my latest projects and learning insights!
